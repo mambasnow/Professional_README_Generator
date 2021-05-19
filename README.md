@@ -1,5 +1,12 @@
 
-# ReadMe Generator
+# ReadMe Generator 💻
+Technology used:
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-inquirer-red" >
+</p>
+
 # Description
 This is a simple readMe generator that ask user series of questions then complies them into a text document!
 # Table of Contents 
