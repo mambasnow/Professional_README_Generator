@@ -8,8 +8,8 @@ Technology used:
 </p>
 
 
+[![Instructional Video](https://img.youtube.com/vi/V2Io4mS2icc/0.jpg)](https://www.youtube.com/watch?v=V2Io4mS2icc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V2Io4mS2icc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Description
 This is a simple readMe generator that ask user series of questions then complies them into a text document!
